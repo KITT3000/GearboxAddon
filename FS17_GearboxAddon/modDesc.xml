@@ -9,6 +9,7 @@
 		<fr>Transmission AddOn</fr>
 		<ru>gearboxMogli</ru>
 		<cz>Řazení AddOn</cz>
+		<pl>Skrzynia biegów</pl>
 	</title>
 	<description>
 		<en><![CDATA[
@@ -70,12 +71,13 @@ Vše se odvíjí od nastavení každého stroje zvlášť v  souboru gearboxAddo
 	<l10n filenamePrefix="modDesc_l10n">
 		<text name="gearboxMogliVERSION">
 			<de>Getriebe v1.9.3.8 von Mogli</de>
-	  	 <en>Gearbox v1.9.3.8 by mogli</en>
-				<it>Cambio v1.9.3.8 by mogli</it>
-	<fr>Transmission v1.9.3.8 by mogli</fr>
-				<cz>Řazení v1.9.3.8 by mogli</cz>
-		</text>                  
-  </l10n>
+			<en>Gearbox v1.9.3.8 by mogli</en>
+			<it>Cambio v1.9.3.8 by mogli</it>
+			<fr>Transmission v1.9.3.8 by mogli</fr>
+			<cz>Řazení v1.9.3.8 by mogli</cz>
+			<pl>Skrzynia biegów v1.9.3.8 by mogli</pl>
+		</text>
+	</l10n>
 
 	<inputBindings>
 		<input name="gearboxMogliSHIFTGEARUP" 	  key1="KEY_leftbracket"             button="BUTTON_3"  category="VEHICLE" />
